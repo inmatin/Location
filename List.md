@@ -1,2 +1,33 @@
 List of Municipalities around GTA
 
+Peel Region (West)
+  Mississauga (City)
+  Brampton (City)
+  Caledon (Town)
+
+York Region (North)
+  Vaughan (City)
+  Markham (City)
+  [Richmond Hill](wikipedia.org Hill)(City)
+  Aurora (Town)
+  Newmarket (Town)
+  Whitchurch-Stouffville (Town)
+  [East Gwillimbury](wikipedia.org Gwillimbury) (Town)
+  Georgina (Town)
+  King (Township)
+
+Durham Region (East)
+  Oshawa (City)
+  Whitby (Town)
+  Ajax (Town)
+  Pickering (City)
+  Clarington (Municipality)
+  Scugog (Township)
+  Uxbridge (Township)
+  Brock (Township)
+
+Halton Region (West/Southwest)
+  Burlington (City)
+  Oakville (Town)
+  Milton (Town)
+  Halton Hills(Town)
